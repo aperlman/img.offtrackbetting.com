@@ -1,0 +1,29 @@
+http://www.belmont-stakes.info/horses.php
+<h1>Colors of the winning horses at the Belmont Stakes</h1>
+<p>Bays and Chestnuts have been the most successful horses at the Belmont Stakes</p>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="50%" id="AutoNumber1">
+  <tr>
+    <td width="25%">Bay</td>
+    <td width="25%">51</td>
+  </tr>
+  <tr>
+    <td width="25%">Chestnut</td>
+    <td width="25%">50</td>
+  </tr>
+  <tr>
+    <td width="25%">Dark Bay or Brown</td>
+    <td width="25%">29</td>
+  </tr>
+  <tr>
+    <td width="25%">Grey</td>
+    <td width="25%">2</td>
+  </tr>
+  <tr>
+    <td width="25%">Black</td>
+    <td width="25%">3</td>
+  </tr>
+  <tr>
+    <td width="25%">Roan</td>
+    <td width="25%">1</td>
+  </tr>
+</table>
