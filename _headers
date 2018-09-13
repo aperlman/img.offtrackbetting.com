@@ -1,3 +1,0 @@
-# serve .json files from www.offtrackbetting.com
-/js/json/*
-  Access-Control-Allow-Origin: https://www.offtrackbetting.com
